@@ -5,3 +5,5 @@ This is provided strictly as a sample of my Data Engineering, and is not to be u
 
 All code is contained within 'Sample-Json-to-SQL-Full-Pipeline-EO-10-03-2019.py'
 Requirements.txt is not provided as this code is present to illustrate previous data engineering work.
+
+Since developing this code, I have learned more about utilizing parallel processing using PySpark or Dask. While I still consider this to be an effective solution, I wanted to note that this does not reflect my most recent data engineering work. In comparison to newer approaches I would take, this benchmarks poorly.
